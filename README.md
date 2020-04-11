@@ -1,0 +1,2 @@
+# Visualizing-Earnings-Based-On-College-Majors
+We will be dealing with a report on the job results of students who graduated from college between 2010 and 2012. The initial data on job results was published by the American Community Survey, which performs surveys and aggregates data. FiveThirtyEight cleaned the dataset and uploaded it to their Github folder. That row in the dataset represents different major in college which provides information on gender equality, job rates, median incomes and more
